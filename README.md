@@ -37,4 +37,4 @@ https://github.com/covid19india/api.git
 ![Logo](https://github.com/deepaksanwaria/Swarastra/blob/7377029fa0a064e39c19538f6c22cf89b44c1a03/Readme-Image/Deepak-Agarwal.png?raw=true)
 <br/><br/>
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/deepaksanwaria/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-agarwal-2460831a9/)# COVID-19-Tracker-Chrome-Extension-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-agarwal-2460831a9/)
