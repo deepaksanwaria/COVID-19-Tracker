@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <img src="Images/covid.gif" alt="COVID-19" width="100px" height="100px">
+    <br>
+    <h1>Jharkhand COVID-19 Tracker</h1>
+    <div class="container">
+        <div class="item_tab">
+            <div class="item" id="Total_case">
+                <p class="title">Confirmed</p>
+                <p id="confirmed"></p>
+            </div>
+            <div class="item" id="Active_case">
+                <p class="title">Active Cases</p>
+                <p id="active"></p>
+            </div>
+            <div class="item" id="discharge">
+                <p class="title">Recovered</p>
+                <p id="discharged"></p>
+            </div>
+            <div class="item" id="Death">
+                <p class="title">Death</p>
+                <p id="death"></p>
+            </div>
+        </div>
+        <p class="last_update">Last Updated on: <span id="last_update"></span></p>
+    </div>
+    <img src="Images/smiliy.gif" alt="Unable to load images" width="120px" height="120px">
+    <script type="text/javascript" src="getdata.js"></script>
+</body>
+
+</html>
