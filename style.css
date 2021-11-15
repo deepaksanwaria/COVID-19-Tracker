@@ -48,7 +48,7 @@ body {
   background: -webkit-linear-gradient(to right, #ff9068, #ff4b1f);
   background: linear-gradient(to right, #ff9068, #ff4b1f);
 }
-img {
+.center_img {
   display: block;
   margin-right: auto;
   margin-left: auto;
@@ -65,4 +65,12 @@ h1 {
 .title {
   font-weight: bold;
   letter-spacing: 1px;
+}
+.Loading {
+  transform: translateY(15px);
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 40px;
+  width: 200px !important;
 }
