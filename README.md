@@ -30,7 +30,7 @@ https://corona.lmao.ninja
 <br/><br/>
 
 # Screenshot
-![IMAGE](Images/screenshot.jpg)
+![IMAGE](Images/screenshot_new.jpg)
 <br/><br/>
 # Author 
 **DEEPAK AGARWAL** <br/><br/>
